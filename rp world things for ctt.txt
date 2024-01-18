@@ -1,0 +1,16 @@
+warrior - highest hit points
+wizard - uses magic
+cleric - uses support magic
+rogue - highest consistent melee / ranged
+damage - class levels
+
+//
+
+shop system
+equipment
+consumables
+
+//
+
+battle system - true based
+world levels different monsters
