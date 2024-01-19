@@ -2,7 +2,7 @@
 #include "hp.h"
 #include "statblock.h"
 
-class Cleric : public hp, public StatBlock {
+class Cleric : public hp, public StatBlock, public LevelSystem {
 public:
 	static const hptype HPGROWTH = (hptype)14u;
 	static const stattype BASESTR = (stattype)2u;
